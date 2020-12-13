@@ -22,6 +22,6 @@ Once the data was validated, a linear regression model was developed.  The linea
 
 As shown below, the model has predicted a total of 234 burrito restaurants that the reviewers would recommend and 96 establishments that the reviewers would not recommend
 
-![](/images/Screen%20Shot%202020-12-13%20at%202.15.18%20PM.png)
+![](https://github.com/kyleehum/Kyle-Hum-Portfolio-Website/blob/main/images/Screen%20Shot%202020-12-13%20at%202.15.18%20PM.png)
 
 
