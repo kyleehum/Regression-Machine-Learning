@@ -15,7 +15,7 @@ The full detailed write up and code can be found in the Regression Machine Learn
 
 Once the data was validated, a linear regression model was developed.  The linear regression was then fitted to a prediction model.  Shown below are my results in comparison to the training and test sets
 
-![](/images/Screen%20Shot%202020-12-13%20at%201.56.31%20PM.png)
+![](https://github.com/kyleehum/Kyle-Hum-Portfolio-Website/blob/main/images/Screen%20Shot%202020-12-13%20at%201.56.31%20PM.png)
 
 
 ### Logistic Regression Model Results
