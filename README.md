@@ -1,5 +1,4 @@
 # [Project 1: Regression Machine Learning]
 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
+* My project will consist of two machine learning algorithms.  The first algorithm utilizes linear regression to predict the overall rating of burritos using a highly correlated variable of non-meat fillings.  The second algorithm utilizes logistic regression to predict a binary classification variable.  Factoring in all 10 core dimensions that the burritos are evaluated on, the model will predict whether or not the reviewers will recommend it or not recommend it.
+
